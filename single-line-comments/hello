@@ -1,0 +1,8 @@
+#!/bin/bash
+
+# This script prints "Hello, World!" to the terminal
+
+# Print the message to the console
+echo "Hello, World!"
+
+# End of script

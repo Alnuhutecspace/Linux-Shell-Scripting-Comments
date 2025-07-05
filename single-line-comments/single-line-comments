@@ -1,0 +1,5 @@
+#!/bin/bash
+
+# This is a single-line comments in bash 
+echo "Hello, I am learning Bash Scripting on DAREY.IO!" # This is also a comment, following a command
+
